@@ -1,2 +1,4 @@
 # ML_Journey
 Here I shall capture my ML journey where I'll try and implement python codes to implement AI modules I learnt. As of creating this repository, I am a first year at a tier-2 college in India and I hope I'll be able to go further.The work may be unrefined at times but it reflects my learning paths and my constant evolution.
+My first project is Linear Regression Model(single varialble).
+You might know Scikit Learn Linear Regression that people mostly use to implement Linear Regression. Though this is perfect for working and it uses parallel processing hardware for perfect working. Mine though, does not come with those but it's created by me. The goal here is to create my own Linear Regression model so that I can properly grasp the concept. Currently, this is a single variable Linear Regression model, next I'll dive into multi-variable linear Regression.
