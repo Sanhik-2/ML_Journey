@@ -1,4 +1,4 @@
-# ML_Journey
+# MLX
 # Usable Machine Learning Models (NumPy-based)
 
 ## Overview
